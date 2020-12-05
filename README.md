@@ -21,7 +21,7 @@ pyinstaller
 
 ### 食用方法
 
-下载releases压缩包解压后双击SerialPort.exe文件，或者创建快捷方式。
+![下载](https://github.com/LUHUIBIN/cyberpunk-style-SerialPort/releases/download/0.1/cyberpink.7z)releases压缩包解压后双击SerialPort.exe文件，或者创建快捷方式。
 
 ### 试一试
 
